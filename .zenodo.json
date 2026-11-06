@@ -1,0 +1,24 @@
+{
+  "title": "Agent Testing Lab",
+  "description": "Test an AI agent that takes real actions: tools, policy and approvals, trajectories, prompt-injection resistance, pass^k reliability and an MCP server, with CI gates and negative controls. No API key needed.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Jadhav, Kavita",
+      "affiliation": "K11 Software Solutions"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "agent-testing",
+    "ai-agents",
+    "ai-quality-engineering",
+    "llm-evaluation",
+    "mcp",
+    "prompt-injection",
+    "promptfoo",
+    "red-teaming",
+    "tool-calling"
+  ],
+  "notes": "Code is licensed under MIT; the written material (articles/) is licensed under CC BY 4.0. All products, users and data in the examples are fictional or simulated."
+}

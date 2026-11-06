@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software or its articles, please cite it as below."
+type: software
+title: "Agent Testing Lab"
+abstract: "Test an AI agent that takes real actions: tools, policy and approvals, trajectories, prompt-injection resistance, pass^k reliability and an MCP server, with CI gates and negative controls. No API key needed."
+authors:
+  - family-names: Jadhav
+    given-names: Kavita
+    affiliation: K11 Software Solutions
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add your ORCID iD here and in .zenodo.json
+repository-code: "https://github.com/K11-Software-Solutions/agent-testing-lab"
+url: "https://github.com/K11-Software-Solutions/agent-testing-lab"
+version: "1.0.0"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - agent-testing
+  - ai-agents
+  - ai-quality-engineering
+  - llm-evaluation
+  - mcp
+  - prompt-injection
+  - promptfoo
+  - red-teaming
+  - tool-calling
+# After the first Zenodo release, add the concept DOI (it always resolves to the latest version):
+# identifiers:
+#   - type: doi
+#     value: "10.5281/zenodo.XXXXXXX"
+#     description: Concept DOI (all versions)

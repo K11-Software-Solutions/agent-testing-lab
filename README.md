@@ -1,7 +1,7 @@
 # Agent Testing Lab
 
 [![CI quality gates](https://github.com/K11-Software-Solutions/agent-testing-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/K11-Software-Solutions/agent-testing-lab/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Code: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE) [![Articles: CC BY 4.0](https://img.shields.io/badge/Articles-CC%20BY%204.0-lightgrey.svg)](articles/LICENSE.md)
 ![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue)
 ![No API key needed](https://img.shields.io/badge/API%20key-not%20required-success)
 
@@ -100,4 +100,10 @@ The fake model is a rule system (great for deterministic CI, not a stand-in for 
 
 Created by **Kavita Jadhav**, founder of [K11 Software Solutions](https://github.com/K11-Software-Solutions), Senior SDET and AI Quality Engineer working on LLM evaluation, red teaming and agentic QA systems.
 
-MIT licensed. ShopAssist, its customers and its orders are fictional.
+**Licences:** code under the [MIT License](LICENSE); the written material in [`articles/`](articles/LICENSE.md) under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (share and adapt with credit).
+
+ShopAssist, its customers and its orders are fictional.
+
+## Citing
+
+Use GitHub's **Cite this repository** button (from [`CITATION.cff`](CITATION.cff)). Each tagged release is archived on Zenodo with its own DOI; cite the version you used, or the concept DOI for the project as a whole. The DOI badge will appear here after the first release.
