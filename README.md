@@ -7,7 +7,7 @@
 
 **Test an AI agent that takes real actions: its tools, its permissions, its trajectories, its resistance to prompt injection, and its reliability when tools fail. Then gate it in CI.**
 
-This is the third of five labs in a series for quality engineers moving into AI:
+This is the third of eight labs in a series for quality engineers moving into AI:
 
 | Lab | Question it answers |
 |---|---|
@@ -16,6 +16,9 @@ This is the third of five labs in a series for quality engineers moving into AI:
 | **Agent Testing Lab** (this repo) | Is the **agent** safe to let act? |
 | [AI Production Monitoring Lab](https://github.com/K11-Software-Solutions/ai-production-monitoring-lab) | Is it **still** good, for the users we actually have, right now? |
 | [Multi-Agent Testing Lab](https://github.com/K11-Software-Solutions/multi-agent-testing-lab) | When **agents work together**, does the team do the right thing, and who broke it when it doesn't? |
+| [AI Performance and Cost Lab](https://github.com/K11-Software-Solutions/ai-performance-cost-lab) | Is it **fast enough under load**, and what does each **good answer** cost? |
+| [AI Evaluation Science Lab](https://github.com/K11-Software-Solutions/ai-evaluation-science-lab) | Can we **trust the evaluator**, and how sure are we? |
+| [AI Data Quality Lab](https://github.com/K11-Software-Solutions/ai-data-quality-lab) | Is the **data** behind it all fit to learn from, test with and retrieve? |
 
 ## The system under test
 
