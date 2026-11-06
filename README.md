@@ -7,13 +7,15 @@
 
 **Test an AI agent that takes real actions: its tools, its permissions, its trajectories, its resistance to prompt injection, and its reliability when tools fail. Then gate it in CI.**
 
-This is the third lab in a series for quality engineers moving into AI:
+This is the third of five labs in a series for quality engineers moving into AI:
 
-| Lab | Layer under test |
+| Lab | Question it answers |
 |---|---|
-| [Becoming an AI Quality Engineer](https://github.com/K11-Software-Solutions/becoming-ai-quality-engineer) | a RAG **application** |
-| [LLM Model Testing Lab](https://github.com/K11-Software-Solutions/llm-model-testing-lab) | the **model** itself |
-| **Agent Testing Lab** (this repo) | an **agent**: an LLM in a loop that calls tools and changes the world |
+| [Becoming an AI Quality Engineer](https://github.com/K11-Software-Solutions/becoming-ai-quality-engineer) | Is the RAG **application** good enough to ship? |
+| [LLM Model Testing Lab](https://github.com/K11-Software-Solutions/llm-model-testing-lab) | Is the **model** good enough? |
+| **Agent Testing Lab** (this repo) | Is the **agent** safe to let act? |
+| [AI Production Monitoring Lab](https://github.com/K11-Software-Solutions/ai-production-monitoring-lab) | Is it **still** good, for the users we actually have, right now? |
+| [Multi-Agent Testing Lab](https://github.com/K11-Software-Solutions/multi-agent-testing-lab) | When **agents work together**, does the team do the right thing, and who broke it when it doesn't? |
 
 ## The system under test
 
